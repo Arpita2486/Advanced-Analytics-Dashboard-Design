@@ -10,10 +10,7 @@ This project focuses on performing advanced exploratory and statistical analysis
 
 ##  Objectives
 
-- Source and clean an open dataset that includes:
-  - At least 1,500 rows
-  - 2+ continuous and 2+ categorical variables
-  - Geographic data (e.g., cities, states, countries, coordinates)
+- Opensource dataset used: World University Rankings
 - Perform the following types of analysis:
   - Exploratory data visualization
   - Regression modeling
