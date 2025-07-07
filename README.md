@@ -41,25 +41,9 @@ This project focuses on performing advanced exploratory and statistical analysis
 
 An interactive Tableau dashboard was created to summarize the curated results from the analyses and communicate insights effectively to stakeholders.
 
- **[View Dashboard on Tableau Public](provided in future)**  
+ **[View Dashboard on Tableau Public]**  
 
-## 📁 Repository Structure
+<h2>📊 Tableau Dashboard</h2>
+<p>An interactive Tableau dashboard was created to summarize the curated results from the analyses and communicate insights effectively to stakeholders.</p>
+<p><strong>🔗 <a href="https://public.tableau.com/app/profile/arpita.nandy/viz/Exercise6_7_ArpitaN/Story1" target="_blank">View Dashboard on Tableau Public</a></strong></p>
 
-
-achievement6-dashboard/
-│
-├── data/                      # Raw and cleaned datasets
-│   └── ...
-│
-├── scripts/                   # Jupyter Notebooks for analysis
-│   ├── 01_exploration.ipynb
-│   ├── 02_geospatial.ipynb
-│   ├── 03_regression.ipynb
-│   ├── 04_clustering.ipynb
-│   ├── 05_timeseries.ipynb
-│
-├── outputs/                   # Visuals and exported datasets
-│   └── ...
-│
-├── README.md                  # This file
-└── requirements.txt           # Python environment dependencies (optional)
