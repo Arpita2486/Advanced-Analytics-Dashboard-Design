@@ -41,7 +41,7 @@ This project focuses on performing advanced exploratory and statistical analysis
 
 An interactive Tableau dashboard was created to summarize the curated results from the analyses and communicate insights effectively to stakeholders.
 
- **[View Dashboard on Tableau Public]**  
+ **[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/arpita.nandy/viz/Exercise6_7_ArpitaN/Story)**
 
 <h2>📊 Tableau Dashboard</h2>
 <p>An interactive Tableau dashboard was created to summarize the curated results from the analyses and communicate insights effectively to stakeholders.</p>
